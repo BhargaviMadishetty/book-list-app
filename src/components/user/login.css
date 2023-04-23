@@ -1,0 +1,46 @@
+#login-container {
+  margin-left: 520px;
+  margin-top: 130px;
+  width: 350px;
+  height: 350px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.login {
+  text-align: center;
+  color: black;
+}
+#username {
+  margin-top: 25px;
+  margin-left: 45px;
+  width: 250px;
+  height: 30px;
+  border-radius: 5px;
+}
+
+#password {
+  margin-top: 25px;
+  margin-left: 45px;
+  width: 250px;
+  height: 30px;
+  border-radius: 5px;
+}
+
+#login {
+  margin-top: 25px;
+  margin-left: 45px;
+  margin-bottom: 20px;
+  width: 255px;
+  height: 35px;
+  font-weight: bolder;
+  border-radius: 5px;
+  background-color: skyblue;
+}
+p {
+  margin-left: 50px;
+}
+#signup {
+  color: red;
+}

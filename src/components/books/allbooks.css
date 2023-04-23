@@ -1,0 +1,98 @@
+
+h2 {
+  text-align: center;
+  font-weight: bolder;
+  font-size: xx-large;
+}
+
+#full-container {
+  margin-left: 100px;
+  margin-top: 20px;
+  width: 1300px;
+  height: 650px;
+  /* border: 1px solid rgb(180, 180, 190); */
+}
+
+#addnew {
+  margin-left: 1165px;
+  margin-top: 10px;
+  width: 130px;
+  height: 35px;
+  background-color: gold;
+  color: black;
+}
+
+#main-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  justify-content: space-between;
+  justify-content: space-evenly;
+}
+#container1 {
+  margin-left: 25px;
+  margin-top: 25px;
+  width: 300px;
+  height: 410px;
+  border: 1px solid silver;
+}
+
+#book-image {
+  width: 300px;
+  height: 300px;
+}
+
+#book-title {
+  width: 300px;
+  height: 30px;
+  margin-top: 5px;
+  margin-left: 5px;
+  color: skyblue;
+}
+
+#book-author {
+  width: 300px;
+  height: 30px;
+  /* margin-top: 5px; */
+  margin-left: 5px;
+  color: darkgray;
+}
+
+#book-genre {
+  width: 300px;
+  height: 30px;
+  margin-top: 5px;
+  margin-left: 5px;
+  color: white;
+}
+
+#container2 {
+  margin-left: 25px;
+  margin-top: 25px;
+  width: 300px;
+  height: 410px;
+  border: 1px solid silver;
+}
+
+#container3 {
+  margin-left: 25px;
+  margin-top: 25px;
+  width: 300px;
+  height: 410px;
+  border: 1px solid silver;
+}
+
+#container4 {
+  margin-left: 25px;
+  margin-top: 25px;
+  width: 300px;
+  height: 410px;
+  border: 1px solid silver;
+}
+
+#logout {
+  margin-left: 1000px;
+  margin-top: 0px;
+  height: 20px;
+  color: rgb(66, 7, 105);
+}

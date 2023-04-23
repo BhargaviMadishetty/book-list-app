@@ -1,0 +1,53 @@
+#register-container {
+  margin: 120px 550px;
+  width: 350px;
+  height: 400px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.register {
+  text-align: center;
+  color: black;
+}
+
+#username {
+  margin-top: 25px;
+  margin-left: 45px;
+  width: 250px;
+  height: 30px;
+  border-radius: 5px;
+}
+
+#password {
+  margin-top: 25px;
+  margin-left: 45px;
+  width: 250px;
+  height: 30px;
+  border-radius: 5px;
+}
+
+#confirm-password {
+  margin-top: 25px;
+  margin-left: 45px;
+  width: 250px;
+  height: 30px;
+  border-radius: 5px;
+}
+
+#register {
+  margin-top: 25px;
+  margin-left: 45px;
+  margin-bottom: 20px;
+  width: 255px;
+  height: 35px;
+  font-weight: bolder;
+  border-radius: 5px;
+  background-color: rgb(55, 55, 234);
+}
+
+#signin {
+  margin-left: 130px;
+  color: red;
+}

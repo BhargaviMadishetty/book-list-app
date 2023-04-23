@@ -1,0 +1,50 @@
+
+
+#form-container {
+  margin-left: 400px;
+  margin-top: 75px;
+  width: 700px;
+  height: 600px;
+  /* border: 1px solid black; */
+}
+
+#show {
+  margin-top: 15px;
+  margin-left: 85px;
+  height: 35px;
+  background-color: rgb(5, 48, 84);
+  border: 1px solid gold;
+  color: gold;
+}
+
+#logout {
+  margin-left: 600px;
+  margin-top: 5px;
+  width: 80px;
+  height: 30px;
+  color: rgb(66, 7, 105);
+}
+
+h2,
+h4 {
+  text-align: center;
+  color: white;
+}
+
+input {
+  margin-left: 85px;
+  width: 500px;
+  height: 30px;
+  margin-bottom: 5px;
+}
+
+#submit {
+  margin-left: 85px;
+  width: 505px;
+  height: 30px;
+  margin-top: 20px;
+  background-color: rgb(5, 48, 84);
+  border: 1px solid gold;
+  color: gold;
+  font-size: medium;
+}
